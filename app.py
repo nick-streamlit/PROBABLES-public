@@ -2,6 +2,9 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import os
+import main
+
+main.main()
 
 try:
     df = pd.read_json("probable_pitchers.json")
