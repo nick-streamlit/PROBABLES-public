@@ -1,0 +1,1682 @@
+{
+  "2026-03-28": [
+    {
+      "time": "2:15 PM",
+      "matchup": "Tampa Bay Rays @ St. Louis Cardinals",
+      "away_team": "Tampa Bay Rays",
+      "home_team": "St. Louis Cardinals",
+      "away_pitcher": "Joe Boyle",
+      "home_pitcher": "Michael McGreevy",
+      "status": {
+        "abstractGameState": "Final",
+        "codedGameState": "F",
+        "detailedState": "Final",
+        "statusCode": "F",
+        "startTimeTBD": false,
+        "abstractGameCode": "F"
+      }
+    },
+    {
+      "time": "2:20 PM",
+      "matchup": "Washington Nationals @ Chicago Cubs",
+      "away_team": "Washington Nationals",
+      "home_team": "Chicago Cubs",
+      "away_pitcher": "Miles Mikolas",
+      "home_pitcher": "Cade Horton",
+      "status": {
+        "abstractGameState": "Final",
+        "codedGameState": "F",
+        "detailedState": "Final",
+        "statusCode": "F",
+        "startTimeTBD": false,
+        "abstractGameCode": "F"
+      }
+    },
+    {
+      "time": "3:07 PM",
+      "matchup": "Athletics @ Toronto Blue Jays",
+      "away_team": "Athletics",
+      "home_team": "Toronto Blue Jays",
+      "away_pitcher": "Jeffrey Springs",
+      "home_pitcher": "Dylan Cease",
+      "status": {
+        "abstractGameState": "Final",
+        "codedGameState": "F",
+        "detailedState": "Final",
+        "statusCode": "F",
+        "startTimeTBD": false,
+        "abstractGameCode": "F"
+      }
+    },
+    {
+      "time": "4:05 PM",
+      "matchup": "Minnesota Twins @ Baltimore Orioles",
+      "away_team": "Minnesota Twins",
+      "home_team": "Baltimore Orioles",
+      "away_pitcher": "Taj Bradley",
+      "home_pitcher": "Kyle Bradish",
+      "status": {
+        "abstractGameState": "Final",
+        "codedGameState": "F",
+        "detailedState": "Final",
+        "statusCode": "F",
+        "startTimeTBD": false,
+        "abstractGameCode": "F"
+      }
+    },
+    {
+      "time": "4:05 PM",
+      "matchup": "Texas Rangers @ Philadelphia Phillies",
+      "away_team": "Texas Rangers",
+      "home_team": "Philadelphia Phillies",
+      "away_pitcher": "Jacob Latz",
+      "home_pitcher": "Aaron Nola",
+      "status": {
+        "abstractGameState": "Final",
+        "codedGameState": "F",
+        "detailedState": "Final",
+        "statusCode": "F",
+        "startTimeTBD": false,
+        "abstractGameCode": "F"
+      }
+    },
+    {
+      "time": "4:10 PM",
+      "matchup": "Boston Red Sox @ Cincinnati Reds",
+      "away_team": "Boston Red Sox",
+      "home_team": "Cincinnati Reds",
+      "away_pitcher": "Sonny Gray",
+      "home_pitcher": "Brady Singer",
+      "status": {
+        "abstractGameState": "Final",
+        "codedGameState": "F",
+        "detailedState": "Final",
+        "statusCode": "F",
+        "startTimeTBD": false,
+        "abstractGameCode": "F"
+      }
+    },
+    {
+      "time": "4:10 PM",
+      "matchup": "Pittsburgh Pirates @ New York Mets",
+      "away_team": "Pittsburgh Pirates",
+      "home_team": "New York Mets",
+      "away_pitcher": "Mitch Keller",
+      "home_pitcher": "David Peterson",
+      "status": {
+        "abstractGameState": "Final",
+        "codedGameState": "F",
+        "detailedState": "Final",
+        "statusCode": "F",
+        "startTimeTBD": false,
+        "abstractGameCode": "F"
+      }
+    },
+    {
+      "time": "4:10 PM",
+      "matchup": "Colorado Rockies @ Miami Marlins",
+      "away_team": "Colorado Rockies",
+      "home_team": "Miami Marlins",
+      "away_pitcher": "Michael Lorenzen",
+      "home_pitcher": "Eury P\u00e9rez",
+      "status": {
+        "abstractGameState": "Final",
+        "codedGameState": "F",
+        "detailedState": "Final",
+        "statusCode": "F",
+        "startTimeTBD": false,
+        "abstractGameCode": "F"
+      }
+    },
+    {
+      "time": "7:10 PM",
+      "matchup": "Los Angeles Angels @ Houston Astros",
+      "away_team": "Los Angeles Angels",
+      "home_team": "Houston Astros",
+      "away_pitcher": "Reid Detmers",
+      "home_pitcher": "Cristian Javier",
+      "status": {
+        "abstractGameState": "Final",
+        "codedGameState": "F",
+        "detailedState": "Final",
+        "statusCode": "F",
+        "startTimeTBD": false,
+        "abstractGameCode": "F"
+      }
+    },
+    {
+      "time": "7:10 PM",
+      "matchup": "Chicago White Sox @ Milwaukee Brewers",
+      "away_team": "Chicago White Sox",
+      "home_team": "Milwaukee Brewers",
+      "away_pitcher": "Sean Burke",
+      "home_pitcher": "Chad Patrick",
+      "status": {
+        "abstractGameState": "Final",
+        "codedGameState": "F",
+        "detailedState": "Final",
+        "statusCode": "F",
+        "startTimeTBD": false,
+        "abstractGameCode": "F"
+      }
+    },
+    {
+      "time": "7:15 PM",
+      "matchup": "Kansas City Royals @ Atlanta Braves",
+      "away_team": "Kansas City Royals",
+      "home_team": "Atlanta Braves",
+      "away_pitcher": "Michael Wacha",
+      "home_pitcher": "Reynaldo L\u00f3pez",
+      "status": {
+        "abstractGameState": "Final",
+        "codedGameState": "F",
+        "detailedState": "Final",
+        "statusCode": "F",
+        "startTimeTBD": false,
+        "abstractGameCode": "F"
+      }
+    },
+    {
+      "time": "7:15 PM",
+      "matchup": "New York Yankees @ San Francisco Giants",
+      "away_team": "New York Yankees",
+      "home_team": "San Francisco Giants",
+      "away_pitcher": "Will Warren",
+      "home_pitcher": "Tyler Mahle",
+      "status": {
+        "abstractGameState": "Final",
+        "codedGameState": "F",
+        "detailedState": "Final",
+        "statusCode": "F",
+        "startTimeTBD": false,
+        "abstractGameCode": "F"
+      }
+    },
+    {
+      "time": "8:40 PM",
+      "matchup": "Detroit Tigers @ San Diego Padres",
+      "away_team": "Detroit Tigers",
+      "home_team": "San Diego Padres",
+      "away_pitcher": "Jack Flaherty",
+      "home_pitcher": "Randy V\u00e1squez",
+      "status": {
+        "abstractGameState": "Live",
+        "codedGameState": "I",
+        "detailedState": "In Progress",
+        "statusCode": "I",
+        "startTimeTBD": false,
+        "abstractGameCode": "L"
+      }
+    },
+    {
+      "time": "9:10 PM",
+      "matchup": "Arizona Diamondbacks @ Los Angeles Dodgers",
+      "away_team": "Arizona Diamondbacks",
+      "home_team": "Los Angeles Dodgers",
+      "away_pitcher": "Eduardo Rodriguez",
+      "home_pitcher": "Tyler Glasnow",
+      "status": {
+        "abstractGameState": "Live",
+        "codedGameState": "I",
+        "detailedState": "In Progress",
+        "statusCode": "I",
+        "startTimeTBD": false,
+        "abstractGameCode": "L"
+      }
+    },
+    {
+      "time": "9:40 PM",
+      "matchup": "Cleveland Guardians @ Seattle Mariners",
+      "away_team": "Cleveland Guardians",
+      "home_team": "Seattle Mariners",
+      "away_pitcher": "Joey Cantillo",
+      "home_pitcher": "Bryan Woo",
+      "status": {
+        "abstractGameState": "Live",
+        "codedGameState": "I",
+        "detailedState": "In Progress",
+        "statusCode": "I",
+        "startTimeTBD": false,
+        "abstractGameCode": "L"
+      }
+    }
+  ],
+  "2026-03-29": [
+    {
+      "time": "1:35 PM",
+      "matchup": "Minnesota Twins @ Baltimore Orioles",
+      "away_team": "Minnesota Twins",
+      "home_team": "Baltimore Orioles",
+      "away_pitcher": "Bailey Ober",
+      "home_pitcher": "Shane Baz",
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "1:35 PM",
+      "matchup": "Texas Rangers @ Philadelphia Phillies",
+      "away_team": "Texas Rangers",
+      "home_team": "Philadelphia Phillies",
+      "away_pitcher": "MacKenzie Gore",
+      "home_pitcher": "Jes\u00fas Luzardo",
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "1:35 PM",
+      "matchup": "Kansas City Royals @ Atlanta Braves",
+      "away_team": "Kansas City Royals",
+      "home_team": "Atlanta Braves",
+      "away_pitcher": "Seth Lugo",
+      "home_pitcher": "Grant Holmes",
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "1:37 PM",
+      "matchup": "Athletics @ Toronto Blue Jays",
+      "away_team": "Athletics",
+      "home_team": "Toronto Blue Jays",
+      "away_pitcher": "Luis Morales",
+      "home_pitcher": "Eric Lauer",
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "1:40 PM",
+      "matchup": "Boston Red Sox @ Cincinnati Reds",
+      "away_team": "Boston Red Sox",
+      "home_team": "Cincinnati Reds",
+      "away_pitcher": "Connelly Early",
+      "home_pitcher": "Rhett Lowder",
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "1:40 PM",
+      "matchup": "Pittsburgh Pirates @ New York Mets",
+      "away_team": "Pittsburgh Pirates",
+      "home_team": "New York Mets",
+      "away_pitcher": "Carmen Mlodzinski",
+      "home_pitcher": "Nolan McLean",
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "1:40 PM",
+      "matchup": "Colorado Rockies @ Miami Marlins",
+      "away_team": "Colorado Rockies",
+      "home_team": "Miami Marlins",
+      "away_pitcher": "Jose Quintana",
+      "home_pitcher": "Max Meyer",
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "2:10 PM",
+      "matchup": "Los Angeles Angels @ Houston Astros",
+      "away_team": "Los Angeles Angels",
+      "home_team": "Houston Astros",
+      "away_pitcher": "Jack Kochanowicz",
+      "home_pitcher": "Tatsuya Imai",
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "2:10 PM",
+      "matchup": "Chicago White Sox @ Milwaukee Brewers",
+      "away_team": "Chicago White Sox",
+      "home_team": "Milwaukee Brewers",
+      "away_pitcher": "Anthony Kay",
+      "home_pitcher": "Brandon Sproat",
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "2:15 PM",
+      "matchup": "Tampa Bay Rays @ St. Louis Cardinals",
+      "away_team": "Tampa Bay Rays",
+      "home_team": "St. Louis Cardinals",
+      "away_pitcher": "Steven Matz",
+      "home_pitcher": "Dustin May",
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "2:20 PM",
+      "matchup": "Washington Nationals @ Chicago Cubs",
+      "away_team": "Washington Nationals",
+      "home_team": "Chicago Cubs",
+      "away_pitcher": "Jake Irvin",
+      "home_pitcher": "Shota Imanaga",
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "7:20 PM",
+      "matchup": "Cleveland Guardians @ Seattle Mariners",
+      "away_team": "Cleveland Guardians",
+      "home_team": "Seattle Mariners",
+      "away_pitcher": "Slade Cecconi",
+      "home_pitcher": "Emerson Hancock",
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    }
+  ],
+  "2026-03-30": [
+    {
+      "time": "4:10 PM",
+      "matchup": "Minnesota Twins @ Kansas City Royals",
+      "away_team": "Minnesota Twins",
+      "home_team": "Kansas City Royals",
+      "away_pitcher": null,
+      "home_pitcher": "Kris Bubic",
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "6:35 PM",
+      "matchup": "Texas Rangers @ Baltimore Orioles",
+      "away_team": "Texas Rangers",
+      "home_team": "Baltimore Orioles",
+      "away_pitcher": "Jack Leiter",
+      "home_pitcher": "Chris Bassitt",
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "6:40 PM",
+      "matchup": "Pittsburgh Pirates @ Cincinnati Reds",
+      "away_team": "Pittsburgh Pirates",
+      "home_team": "Cincinnati Reds",
+      "away_pitcher": "Braxton Ashcraft",
+      "home_pitcher": "Chase Burns",
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "6:40 PM",
+      "matchup": "Washington Nationals @ Philadelphia Phillies",
+      "away_team": "Washington Nationals",
+      "home_team": "Philadelphia Phillies",
+      "away_pitcher": null,
+      "home_pitcher": "Taijuan Walker",
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "6:40 PM",
+      "matchup": "Chicago White Sox @ Miami Marlins",
+      "away_team": "Chicago White Sox",
+      "home_team": "Miami Marlins",
+      "away_pitcher": "Davis Martin",
+      "home_pitcher": "Chris Paddack",
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "7:07 PM",
+      "matchup": "Colorado Rockies @ Toronto Blue Jays",
+      "away_team": "Colorado Rockies",
+      "home_team": "Toronto Blue Jays",
+      "away_pitcher": null,
+      "home_pitcher": "Cody Ponce",
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "7:15 PM",
+      "matchup": "Athletics @ Atlanta Braves",
+      "away_team": "Athletics",
+      "home_team": "Atlanta Braves",
+      "away_pitcher": "Aaron Civale",
+      "home_pitcher": "Bryce Elder",
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "7:40 PM",
+      "matchup": "Los Angeles Angels @ Chicago Cubs",
+      "away_team": "Los Angeles Angels",
+      "home_team": "Chicago Cubs",
+      "away_pitcher": null,
+      "home_pitcher": null,
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "7:40 PM",
+      "matchup": "Tampa Bay Rays @ Milwaukee Brewers",
+      "away_team": "Tampa Bay Rays",
+      "home_team": "Milwaukee Brewers",
+      "away_pitcher": "Nick Martinez",
+      "home_pitcher": "Kyle Harrison",
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "7:45 PM",
+      "matchup": "New York Mets @ St. Louis Cardinals",
+      "away_team": "New York Mets",
+      "home_team": "St. Louis Cardinals",
+      "away_pitcher": "Clay Holmes",
+      "home_pitcher": "Kyle Leahy",
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "8:10 PM",
+      "matchup": "Boston Red Sox @ Houston Astros",
+      "away_team": "Boston Red Sox",
+      "home_team": "Houston Astros",
+      "away_pitcher": "Ranger Suarez",
+      "home_pitcher": "Lance McCullers Jr.",
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "9:40 PM",
+      "matchup": "San Francisco Giants @ San Diego Padres",
+      "away_team": "San Francisco Giants",
+      "home_team": "San Diego Padres",
+      "away_pitcher": "Landen Roupp",
+      "home_pitcher": "Walker Buehler",
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "9:40 PM",
+      "matchup": "New York Yankees @ Seattle Mariners",
+      "away_team": "New York Yankees",
+      "home_team": "Seattle Mariners",
+      "away_pitcher": "Ryan Weathers",
+      "home_pitcher": "Luis Castillo",
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "10:10 PM",
+      "matchup": "Detroit Tigers @ Arizona Diamondbacks",
+      "away_team": "Detroit Tigers",
+      "home_team": "Arizona Diamondbacks",
+      "away_pitcher": "Justin Verlander",
+      "home_pitcher": "Michael Soroka",
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "10:10 PM",
+      "matchup": "Cleveland Guardians @ Los Angeles Dodgers",
+      "away_team": "Cleveland Guardians",
+      "home_team": "Los Angeles Dodgers",
+      "away_pitcher": "Parker Messick",
+      "home_pitcher": "Roki Sasaki",
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    }
+  ],
+  "2026-03-31": [
+    {
+      "time": "6:35 PM",
+      "matchup": "Texas Rangers @ Baltimore Orioles",
+      "away_team": "Texas Rangers",
+      "home_team": "Baltimore Orioles",
+      "away_pitcher": null,
+      "home_pitcher": "Zach Eflin",
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "6:40 PM",
+      "matchup": "Pittsburgh Pirates @ Cincinnati Reds",
+      "away_team": "Pittsburgh Pirates",
+      "home_team": "Cincinnati Reds",
+      "away_pitcher": "Bubba Chandler",
+      "home_pitcher": "Brandon Williamson",
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "6:40 PM",
+      "matchup": "Washington Nationals @ Philadelphia Phillies",
+      "away_team": "Washington Nationals",
+      "home_team": "Philadelphia Phillies",
+      "away_pitcher": null,
+      "home_pitcher": "Andrew Painter",
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "6:40 PM",
+      "matchup": "Chicago White Sox @ Miami Marlins",
+      "away_team": "Chicago White Sox",
+      "home_team": "Miami Marlins",
+      "away_pitcher": "Erick Fedde",
+      "home_pitcher": "Janson Junk",
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "7:07 PM",
+      "matchup": "Colorado Rockies @ Toronto Blue Jays",
+      "away_team": "Colorado Rockies",
+      "home_team": "Toronto Blue Jays",
+      "away_pitcher": null,
+      "home_pitcher": "Max Scherzer",
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "7:15 PM",
+      "matchup": "Athletics @ Atlanta Braves",
+      "away_team": "Athletics",
+      "home_team": "Atlanta Braves",
+      "away_pitcher": "Jacob Lopez",
+      "home_pitcher": null,
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "7:40 PM",
+      "matchup": "Los Angeles Angels @ Chicago Cubs",
+      "away_team": "Los Angeles Angels",
+      "home_team": "Chicago Cubs",
+      "away_pitcher": null,
+      "home_pitcher": null,
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "7:40 PM",
+      "matchup": "Tampa Bay Rays @ Milwaukee Brewers",
+      "away_team": "Tampa Bay Rays",
+      "home_team": "Milwaukee Brewers",
+      "away_pitcher": "Shane McClanahan",
+      "home_pitcher": "Brandon Woodruff",
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "7:45 PM",
+      "matchup": "New York Mets @ St. Louis Cardinals",
+      "away_team": "New York Mets",
+      "home_team": "St. Louis Cardinals",
+      "away_pitcher": "Kodai Senga",
+      "home_pitcher": "Andre Pallante",
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "8:10 PM",
+      "matchup": "Boston Red Sox @ Houston Astros",
+      "away_team": "Boston Red Sox",
+      "home_team": "Houston Astros",
+      "away_pitcher": "Brayan Bello",
+      "home_pitcher": null,
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "9:40 PM",
+      "matchup": "Detroit Tigers @ Arizona Diamondbacks",
+      "away_team": "Detroit Tigers",
+      "home_team": "Arizona Diamondbacks",
+      "away_pitcher": "Casey Mize",
+      "home_pitcher": "Brandon Pfaadt",
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "9:40 PM",
+      "matchup": "San Francisco Giants @ San Diego Padres",
+      "away_team": "San Francisco Giants",
+      "home_team": "San Diego Padres",
+      "away_pitcher": "Logan Webb",
+      "home_pitcher": null,
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "9:40 PM",
+      "matchup": "New York Yankees @ Seattle Mariners",
+      "away_team": "New York Yankees",
+      "home_team": "Seattle Mariners",
+      "away_pitcher": "Max Fried",
+      "home_pitcher": "Logan Gilbert",
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "10:10 PM",
+      "matchup": "Cleveland Guardians @ Los Angeles Dodgers",
+      "away_team": "Cleveland Guardians",
+      "home_team": "Los Angeles Dodgers",
+      "away_pitcher": null,
+      "home_pitcher": "Shohei Ohtani",
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    }
+  ],
+  "2026-04-01": [
+    {
+      "time": "12:15 PM",
+      "matchup": "Athletics @ Atlanta Braves",
+      "away_team": "Athletics",
+      "home_team": "Atlanta Braves",
+      "away_pitcher": "Luis Severino",
+      "home_pitcher": null,
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "12:35 PM",
+      "matchup": "Texas Rangers @ Baltimore Orioles",
+      "away_team": "Texas Rangers",
+      "home_team": "Baltimore Orioles",
+      "away_pitcher": null,
+      "home_pitcher": "Trevor Rogers",
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "12:40 PM",
+      "matchup": "Pittsburgh Pirates @ Cincinnati Reds",
+      "away_team": "Pittsburgh Pirates",
+      "home_team": "Cincinnati Reds",
+      "away_pitcher": null,
+      "home_pitcher": null,
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "1:05 PM",
+      "matchup": "Washington Nationals @ Philadelphia Phillies",
+      "away_team": "Washington Nationals",
+      "home_team": "Philadelphia Phillies",
+      "away_pitcher": null,
+      "home_pitcher": null,
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "1:07 PM",
+      "matchup": "Colorado Rockies @ Toronto Blue Jays",
+      "away_team": "Colorado Rockies",
+      "home_team": "Toronto Blue Jays",
+      "away_pitcher": null,
+      "home_pitcher": null,
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "1:10 PM",
+      "matchup": "Chicago White Sox @ Miami Marlins",
+      "away_team": "Chicago White Sox",
+      "home_team": "Miami Marlins",
+      "away_pitcher": "Shane Smith",
+      "home_pitcher": "Sandy Alcantara",
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "1:15 PM",
+      "matchup": "New York Mets @ St. Louis Cardinals",
+      "away_team": "New York Mets",
+      "home_team": "St. Louis Cardinals",
+      "away_pitcher": null,
+      "home_pitcher": "Matthew Liberatore",
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "1:40 PM",
+      "matchup": "Tampa Bay Rays @ Milwaukee Brewers",
+      "away_team": "Tampa Bay Rays",
+      "home_team": "Milwaukee Brewers",
+      "away_pitcher": null,
+      "home_pitcher": "Jacob Misiorowski",
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "2:10 PM",
+      "matchup": "Boston Red Sox @ Houston Astros",
+      "away_team": "Boston Red Sox",
+      "home_team": "Houston Astros",
+      "away_pitcher": "Garrett Crochet",
+      "home_pitcher": null,
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "2:20 PM",
+      "matchup": "Los Angeles Angels @ Chicago Cubs",
+      "away_team": "Los Angeles Angels",
+      "home_team": "Chicago Cubs",
+      "away_pitcher": null,
+      "home_pitcher": null,
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "3:40 PM",
+      "matchup": "Detroit Tigers @ Arizona Diamondbacks",
+      "away_team": "Detroit Tigers",
+      "home_team": "Arizona Diamondbacks",
+      "away_pitcher": null,
+      "home_pitcher": "Zac Gallen",
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "4:10 PM",
+      "matchup": "San Francisco Giants @ San Diego Padres",
+      "away_team": "San Francisco Giants",
+      "home_team": "San Diego Padres",
+      "away_pitcher": "Adrian Houser",
+      "home_pitcher": "Nick Pivetta",
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "4:10 PM",
+      "matchup": "New York Yankees @ Seattle Mariners",
+      "away_team": "New York Yankees",
+      "home_team": "Seattle Mariners",
+      "away_pitcher": "Cam Schlittler",
+      "home_pitcher": "George Kirby",
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "7:40 PM",
+      "matchup": "Minnesota Twins @ Kansas City Royals",
+      "away_team": "Minnesota Twins",
+      "home_team": "Kansas City Royals",
+      "away_pitcher": null,
+      "home_pitcher": "Noah Cameron",
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "8:20 PM",
+      "matchup": "Cleveland Guardians @ Los Angeles Dodgers",
+      "away_team": "Cleveland Guardians",
+      "home_team": "Los Angeles Dodgers",
+      "away_pitcher": "Gavin Williams",
+      "home_pitcher": "Yoshinobu Yamamoto",
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    }
+  ],
+  "2026-04-02": [
+    {
+      "time": "2:10 PM",
+      "matchup": "Minnesota Twins @ Kansas City Royals",
+      "away_team": "Minnesota Twins",
+      "home_team": "Kansas City Royals",
+      "away_pitcher": null,
+      "home_pitcher": null,
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "4:10 PM",
+      "matchup": "Toronto Blue Jays @ Chicago White Sox",
+      "away_team": "Toronto Blue Jays",
+      "home_team": "Chicago White Sox",
+      "away_pitcher": null,
+      "home_pitcher": null,
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "9:40 PM",
+      "matchup": "Atlanta Braves @ Arizona Diamondbacks",
+      "away_team": "Atlanta Braves",
+      "home_team": "Arizona Diamondbacks",
+      "away_pitcher": null,
+      "home_pitcher": null,
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "9:45 PM",
+      "matchup": "New York Mets @ San Francisco Giants",
+      "away_team": "New York Mets",
+      "home_team": "San Francisco Giants",
+      "away_pitcher": null,
+      "home_pitcher": null,
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    }
+  ],
+  "2026-04-03": [
+    {
+      "time": "1:05 PM",
+      "matchup": "Los Angeles Dodgers @ Washington Nationals",
+      "away_team": "Los Angeles Dodgers",
+      "home_team": "Washington Nationals",
+      "away_pitcher": null,
+      "home_pitcher": null,
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "1:10 PM",
+      "matchup": "St. Louis Cardinals @ Detroit Tigers",
+      "away_team": "St. Louis Cardinals",
+      "home_team": "Detroit Tigers",
+      "away_pitcher": null,
+      "home_pitcher": null,
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "1:35 PM",
+      "matchup": "Miami Marlins @ New York Yankees",
+      "away_team": "Miami Marlins",
+      "home_team": "New York Yankees",
+      "away_pitcher": null,
+      "home_pitcher": null,
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "2:10 PM",
+      "matchup": "San Diego Padres @ Boston Red Sox",
+      "away_team": "San Diego Padres",
+      "home_team": "Boston Red Sox",
+      "away_pitcher": "Michael King",
+      "home_pitcher": null,
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "4:05 PM",
+      "matchup": "Cincinnati Reds @ Texas Rangers",
+      "away_team": "Cincinnati Reds",
+      "home_team": "Texas Rangers",
+      "away_pitcher": null,
+      "home_pitcher": null,
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "4:10 PM",
+      "matchup": "Chicago Cubs @ Cleveland Guardians",
+      "away_team": "Chicago Cubs",
+      "home_team": "Cleveland Guardians",
+      "away_pitcher": null,
+      "home_pitcher": null,
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "4:10 PM",
+      "matchup": "Tampa Bay Rays @ Minnesota Twins",
+      "away_team": "Tampa Bay Rays",
+      "home_team": "Minnesota Twins",
+      "away_pitcher": null,
+      "home_pitcher": null,
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "4:10 PM",
+      "matchup": "Philadelphia Phillies @ Colorado Rockies",
+      "away_team": "Philadelphia Phillies",
+      "home_team": "Colorado Rockies",
+      "away_pitcher": null,
+      "home_pitcher": null,
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "4:12 PM",
+      "matchup": "Baltimore Orioles @ Pittsburgh Pirates",
+      "away_team": "Baltimore Orioles",
+      "home_team": "Pittsburgh Pirates",
+      "away_pitcher": null,
+      "home_pitcher": null,
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "7:45 PM",
+      "matchup": "Milwaukee Brewers @ Kansas City Royals",
+      "away_team": "Milwaukee Brewers",
+      "home_team": "Kansas City Royals",
+      "away_pitcher": null,
+      "home_pitcher": null,
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "9:38 PM",
+      "matchup": "Seattle Mariners @ Los Angeles Angels",
+      "away_team": "Seattle Mariners",
+      "home_team": "Los Angeles Angels",
+      "away_pitcher": null,
+      "home_pitcher": null,
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "9:40 PM",
+      "matchup": "Houston Astros @ Athletics",
+      "away_team": "Houston Astros",
+      "home_team": "Athletics",
+      "away_pitcher": null,
+      "home_pitcher": null,
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "9:45 PM",
+      "matchup": "Atlanta Braves @ Arizona Diamondbacks",
+      "away_team": "Atlanta Braves",
+      "home_team": "Arizona Diamondbacks",
+      "away_pitcher": null,
+      "home_pitcher": null,
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "10:15 PM",
+      "matchup": "New York Mets @ San Francisco Giants",
+      "away_team": "New York Mets",
+      "home_team": "San Francisco Giants",
+      "away_pitcher": null,
+      "home_pitcher": null,
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    }
+  ],
+  "2026-04-04": [
+    {
+      "time": "1:10 PM",
+      "matchup": "St. Louis Cardinals @ Detroit Tigers",
+      "away_team": "St. Louis Cardinals",
+      "home_team": "Detroit Tigers",
+      "away_pitcher": null,
+      "home_pitcher": null,
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "2:10 PM",
+      "matchup": "Toronto Blue Jays @ Chicago White Sox",
+      "away_team": "Toronto Blue Jays",
+      "home_team": "Chicago White Sox",
+      "away_pitcher": null,
+      "home_pitcher": null,
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "4:05 PM",
+      "matchup": "Los Angeles Dodgers @ Washington Nationals",
+      "away_team": "Los Angeles Dodgers",
+      "home_team": "Washington Nationals",
+      "away_pitcher": null,
+      "home_pitcher": null,
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "4:05 PM",
+      "matchup": "Houston Astros @ Athletics",
+      "away_team": "Houston Astros",
+      "home_team": "Athletics",
+      "away_pitcher": null,
+      "home_pitcher": null,
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "4:05 PM",
+      "matchup": "Baltimore Orioles @ Pittsburgh Pirates",
+      "away_team": "Baltimore Orioles",
+      "home_team": "Pittsburgh Pirates",
+      "away_pitcher": null,
+      "home_pitcher": null,
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "4:10 PM",
+      "matchup": "San Diego Padres @ Boston Red Sox",
+      "away_team": "San Diego Padres",
+      "home_team": "Boston Red Sox",
+      "away_pitcher": null,
+      "home_pitcher": null,
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "4:10 PM",
+      "matchup": "Milwaukee Brewers @ Kansas City Royals",
+      "away_team": "Milwaukee Brewers",
+      "home_team": "Kansas City Royals",
+      "away_pitcher": null,
+      "home_pitcher": null,
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "7:05 PM",
+      "matchup": "Cincinnati Reds @ Texas Rangers",
+      "away_team": "Cincinnati Reds",
+      "home_team": "Texas Rangers",
+      "away_pitcher": null,
+      "home_pitcher": null,
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "7:05 PM",
+      "matchup": "Miami Marlins @ New York Yankees",
+      "away_team": "Miami Marlins",
+      "home_team": "New York Yankees",
+      "away_pitcher": null,
+      "home_pitcher": null,
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "7:10 PM",
+      "matchup": "Tampa Bay Rays @ Minnesota Twins",
+      "away_team": "Tampa Bay Rays",
+      "home_team": "Minnesota Twins",
+      "away_pitcher": null,
+      "home_pitcher": null,
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "7:15 PM",
+      "matchup": "Chicago Cubs @ Cleveland Guardians",
+      "away_team": "Chicago Cubs",
+      "home_team": "Cleveland Guardians",
+      "away_pitcher": null,
+      "home_pitcher": null,
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "7:15 PM",
+      "matchup": "Atlanta Braves @ Arizona Diamondbacks",
+      "away_team": "Atlanta Braves",
+      "home_team": "Arizona Diamondbacks",
+      "away_pitcher": null,
+      "home_pitcher": null,
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "8:10 PM",
+      "matchup": "Philadelphia Phillies @ Colorado Rockies",
+      "away_team": "Philadelphia Phillies",
+      "home_team": "Colorado Rockies",
+      "away_pitcher": null,
+      "home_pitcher": null,
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "9:05 PM",
+      "matchup": "New York Mets @ San Francisco Giants",
+      "away_team": "New York Mets",
+      "home_team": "San Francisco Giants",
+      "away_pitcher": null,
+      "home_pitcher": null,
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    },
+    {
+      "time": "9:38 PM",
+      "matchup": "Seattle Mariners @ Los Angeles Angels",
+      "away_team": "Seattle Mariners",
+      "home_team": "Los Angeles Angels",
+      "away_pitcher": null,
+      "home_pitcher": null,
+      "status": {
+        "abstractGameState": "Preview",
+        "codedGameState": "S",
+        "detailedState": "Scheduled",
+        "statusCode": "S",
+        "startTimeTBD": false,
+        "abstractGameCode": "P"
+      }
+    }
+  ]
+}
