@@ -420,7 +420,7 @@ def main():
     save_table_as_image(filtered_games)
     
     # Optionally export to JSON
-    export_to_json(pitchers_by_date)
+    export_to_json(filtered_games)
 
 
 if __name__ == "__main__":
