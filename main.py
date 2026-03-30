@@ -306,7 +306,7 @@ def display_target_pitchers_table(filtered_games: List[dict]) -> None:
     print("\n" + "="*120)
     print("BOVINE PITCHERS - UPCOMING MATCHUPS")
     print("="*120)
-    print(f"\n{'Date':<12} {'Day':<9} {'Time':<9} {'Away Team':<17} {'Pitcher':<17} {'Home Team':<17} {'Pitcher':<17}")
+    print(f"\n{'Date':<12} {'Day':<9} {'Time':<9} {'Away Team':<25} {'Pitcher':<17} {'Home Team':<25} {'Pitcher':<17}")
     print("-" * 120)
     
     for game in sorted(filtered_games, key=lambda x: x.get("date", "")):
@@ -317,12 +317,12 @@ def display_target_pitchers_table(filtered_games: List[dict]) -> None:
         except:
             day_name = "TBD"
         time = game.get("time", "TBD")
-        away_team = (game.get("away_team", "") or "")[:16]
-        home_team = (game.get("home_team", "") or "")[:16]
+        away_team = (game.get("away_team", "") or "")[:24]
+        home_team = (game.get("home_team", "") or "")[:24]
         away_pitcher = (game.get("away_pitcher") or "TBD")[:16] if game.get("away_pitcher") else "TBD"
         home_pitcher = (game.get("home_pitcher") or "TBD")[:16] if game.get("home_pitcher") else "TBD"
         
-        print(f"{date:<12} {day_name:<9} {time:<9} {away_team:<17} {away_pitcher:<17} {home_team:<17} {home_pitcher:<17}")
+        print(f"{date:<12} {day_name:<9} {time:<9} {away_team:<25} {away_pitcher:<17} {home_team:<25} {home_pitcher:<17}")
     
     print("\n" + "="*120 + "\n")
 
@@ -372,7 +372,7 @@ def save_table_as_image(filtered_games: List[dict], filename: str = "bovine_pitc
     y += header_height
     
     # Draw header row
-    header = f"{'Date':<12} {'Day':<8} {'Time':<9} {'Away Team':<16} {'Pitcher':<16} {'Home Team':<16} {'Pitcher':<16}"
+    header = f"{'Date':<12} {'Day':<8} {'Time':<9} {'Away Team':<25} {'Pitcher':<17} {'Home Team':<25} {'Pitcher':<17}"
     draw.text((padding, y), header, fill='#333333', font=header_font)
     y += line_height
     
@@ -390,12 +390,12 @@ def save_table_as_image(filtered_games: List[dict], filename: str = "bovine_pitc
         except:
             day_name = "TBD"
         time = game.get("time", "TBD")[:9]
-        away_team = (game.get("away_team", "") or "")[:15]
-        home_team = (game.get("home_team", "") or "")[:15]
-        away_pitcher = (game.get("away_pitcher") or "TBD")[:15] if game.get("away_pitcher") else "TBD"
-        home_pitcher = (game.get("home_pitcher") or "TBD")[:15] if game.get("home_pitcher") else "TBD"
+        away_team = (game.get("away_team", "") or "")[:24]
+        home_team = (game.get("home_team", "") or "")[:24]
+        away_pitcher = (game.get("away_pitcher") or "TBD")[:16] if game.get("away_pitcher") else "TBD"
+        home_pitcher = (game.get("home_pitcher") or "TBD")[:16] if game.get("home_pitcher") else "TBD"
         
-        row = f"{date:<12} {day_name:<8} {time:<9} {away_team:<16} {away_pitcher:<16} {home_team:<16} {home_pitcher:<16}"
+        row = f"{date:<12} {day_name:<8} {time:<9} {away_team:<25} {away_pitcher:<17} {home_team:<25} {home_pitcher:<17}"
         draw.text((padding, y), row, fill='black', font=text_font)
         y += line_height
     
