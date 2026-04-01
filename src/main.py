@@ -5,7 +5,17 @@ import json
 import csv
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from PIL import Image, ImageDraw, ImageFont
+from pathlib import Path
 
+
+# Define the base directory (project_root) relative to the current script location
+# Go up one level from 'src' to 'project_root'
+project_root = Path(__file__).parent.parent
+
+# Define the path to the 'input' data folder
+input_folder = project_root / 'data' / 'input'
+processed_folder = project_root / 'data' / 'processed'
+output_folder = project_root / 'outputs'
 
 def convert_utc_to_et_12hr(utc_time_str: str) -> str:
     """
@@ -37,7 +47,7 @@ def convert_utc_to_et_12hr(utc_time_str: str) -> str:
         return "TBD"
 
 
-def load_target_pitchers(csv_file: str = "roster.csv") -> List[str]:
+def load_target_pitchers(csv_file: str = f"{input_folder}/roster.csv") -> List[str]:
     """
     Load target pitcher names from a CSV file.
     
@@ -250,7 +260,7 @@ def display_pitchers(pitchers_by_date: dict) -> None:
     print("\n" + "="*80 + "\n")
 
 
-def export_to_json(pitchers_by_date: dict, filename: str = "probable_pitchers.json") -> None:
+def export_to_json(pitchers_by_date: dict, filename: str = f"{processed_folder}/probable_pitchers.json") -> None:
     """
     Export probable pitchers to a JSON file.
     
@@ -327,7 +337,7 @@ def display_target_pitchers_table(filtered_games: List[dict]) -> None:
     print("\n" + "="*120 + "\n")
 
 
-def save_table_as_image(filtered_games: List[dict], filename: str = "bovine_pitchers_table.png") -> None:
+def save_table_as_image(filtered_games: List[dict], filename: str = f"{output_folder}/bovine_pitchers_table.png") -> None:
     """
     Save the target pitchers table as an image.
     

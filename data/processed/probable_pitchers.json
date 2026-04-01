@@ -1,39 +1,5 @@
 [
   {
-    "date": "2026-03-29",
-    "time": "1:35 PM",
-    "matchup": "Texas Rangers @ Philadelphia Phillies",
-    "away_team": "Texas Rangers",
-    "home_team": "Philadelphia Phillies",
-    "away_pitcher": "MacKenzie Gore",
-    "home_pitcher": "Jes\u00fas Luzardo",
-    "status": {
-      "abstractGameState": "Final",
-      "codedGameState": "F",
-      "detailedState": "Final",
-      "statusCode": "F",
-      "startTimeTBD": false,
-      "abstractGameCode": "F"
-    }
-  },
-  {
-    "date": "2026-03-30",
-    "time": "9:40 PM",
-    "matchup": "San Francisco Giants @ San Diego Padres",
-    "away_team": "San Francisco Giants",
-    "home_team": "San Diego Padres",
-    "away_pitcher": "Landen Roupp",
-    "home_pitcher": "Walker Buehler",
-    "status": {
-      "abstractGameState": "Preview",
-      "codedGameState": "S",
-      "detailedState": "Scheduled",
-      "statusCode": "S",
-      "startTimeTBD": false,
-      "abstractGameCode": "P"
-    }
-  },
-  {
     "date": "2026-03-31",
     "time": "9:40 PM",
     "matchup": "San Francisco Giants @ San Diego Padres",
@@ -42,12 +8,29 @@
     "away_pitcher": "Logan Webb",
     "home_pitcher": "Germ\u00e1n M\u00e1rquez",
     "status": {
-      "abstractGameState": "Preview",
-      "codedGameState": "S",
-      "detailedState": "Scheduled",
-      "statusCode": "S",
+      "abstractGameState": "Live",
+      "codedGameState": "I",
+      "detailedState": "In Progress",
+      "statusCode": "I",
       "startTimeTBD": false,
-      "abstractGameCode": "P"
+      "abstractGameCode": "L"
+    }
+  },
+  {
+    "date": "2026-03-31",
+    "time": "10:10 PM",
+    "matchup": "Cleveland Guardians @ Los Angeles Dodgers",
+    "away_team": "Cleveland Guardians",
+    "home_team": "Los Angeles Dodgers",
+    "away_pitcher": "Tanner Bibee",
+    "home_pitcher": "Shohei Ohtani",
+    "status": {
+      "abstractGameState": "Live",
+      "codedGameState": "P",
+      "detailedState": "Warmup",
+      "statusCode": "PW",
+      "startTimeTBD": false,
+      "abstractGameCode": "L"
     }
   },
   {
@@ -74,7 +57,24 @@
     "away_team": "San Diego Padres",
     "home_team": "Boston Red Sox",
     "away_pitcher": "Michael King",
-    "home_pitcher": null,
+    "home_pitcher": "Sonny Gray",
+    "status": {
+      "abstractGameState": "Preview",
+      "codedGameState": "S",
+      "detailedState": "Scheduled",
+      "statusCode": "S",
+      "startTimeTBD": false,
+      "abstractGameCode": "P"
+    }
+  },
+  {
+    "date": "2026-04-04",
+    "time": "9:05 PM",
+    "matchup": "New York Mets @ San Francisco Giants",
+    "away_team": "New York Mets",
+    "home_team": "San Francisco Giants",
+    "away_pitcher": "Clay Holmes",
+    "home_pitcher": "Landen Roupp",
     "status": {
       "abstractGameState": "Preview",
       "codedGameState": "S",
