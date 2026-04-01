@@ -260,16 +260,20 @@ def display_pitchers(pitchers_by_date: dict) -> None:
     print("\n" + "="*80 + "\n")
 
 
-def export_to_json(pitchers_by_date: dict, filename: str = f"{processed_folder}/probable_pitchers.json") -> None:
+def export_to_json(export_data: dict, filename: str = None) -> None:
     """
     Export probable pitchers to a JSON file.
     
     Args:
-        pitchers_by_date: Dictionary with games organized by date
+        export_data: Dictionary with data to export
         filename: Output filename
     """
+    if filename is None:
+        filename = f"{processed_folder}/none.json"
+    else:
+        filename = f"{processed_folder}/{filename}.json"
     with open(filename, "w") as f:
-        json.dump(pitchers_by_date, f, indent=2)
+        json.dump(export_data, f, indent=2)
     print(f"Data exported to {filename}")
 
 
@@ -430,8 +434,7 @@ def main():
     save_table_as_image(filtered_games)
     
     # Optionally export to JSON
-    export_to_json(filtered_games)
-
+    export_to_json(filtered_games, "probable_pitchers")
 
 if __name__ == "__main__":
     main()
