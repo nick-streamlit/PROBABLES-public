@@ -1,39 +1,5 @@
 [
   {
-    "date": "2026-03-31",
-    "time": "9:40 PM",
-    "matchup": "San Francisco Giants @ San Diego Padres",
-    "away_team": "San Francisco Giants",
-    "home_team": "San Diego Padres",
-    "away_pitcher": "Logan Webb",
-    "home_pitcher": "Germ\u00e1n M\u00e1rquez",
-    "status": {
-      "abstractGameState": "Live",
-      "codedGameState": "I",
-      "detailedState": "In Progress",
-      "statusCode": "I",
-      "startTimeTBD": false,
-      "abstractGameCode": "L"
-    }
-  },
-  {
-    "date": "2026-03-31",
-    "time": "10:10 PM",
-    "matchup": "Cleveland Guardians @ Los Angeles Dodgers",
-    "away_team": "Cleveland Guardians",
-    "home_team": "Los Angeles Dodgers",
-    "away_pitcher": "Tanner Bibee",
-    "home_pitcher": "Shohei Ohtani",
-    "status": {
-      "abstractGameState": "Live",
-      "codedGameState": "I",
-      "detailedState": "In Progress",
-      "statusCode": "I",
-      "startTimeTBD": false,
-      "abstractGameCode": "L"
-    }
-  },
-  {
     "date": "2026-04-01",
     "time": "4:10 PM",
     "matchup": "San Francisco Giants @ San Diego Padres",
