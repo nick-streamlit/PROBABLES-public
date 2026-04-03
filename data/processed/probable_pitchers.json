@@ -1,22 +1,5 @@
 [
   {
-    "date": "2026-04-01",
-    "time": "4:10 PM",
-    "matchup": "San Francisco Giants @ San Diego Padres",
-    "away_team": "San Francisco Giants",
-    "home_team": "San Diego Padres",
-    "away_pitcher": "Adrian Houser",
-    "home_pitcher": "Nick Pivetta",
-    "status": {
-      "abstractGameState": "Preview",
-      "codedGameState": "S",
-      "detailedState": "Scheduled",
-      "statusCode": "S",
-      "startTimeTBD": false,
-      "abstractGameCode": "P"
-    }
-  },
-  {
     "date": "2026-04-03",
     "time": "2:10 PM",
     "matchup": "San Diego Padres @ Boston Red Sox",
@@ -34,6 +17,40 @@
     }
   },
   {
+    "date": "2026-04-03",
+    "time": "4:05 PM",
+    "matchup": "Cincinnati Reds @ Texas Rangers",
+    "away_team": "Cincinnati Reds",
+    "home_team": "Texas Rangers",
+    "away_pitcher": "Brady Singer",
+    "home_pitcher": "MacKenzie Gore",
+    "status": {
+      "abstractGameState": "Preview",
+      "codedGameState": "S",
+      "detailedState": "Scheduled",
+      "statusCode": "S",
+      "startTimeTBD": false,
+      "abstractGameCode": "P"
+    }
+  },
+  {
+    "date": "2026-04-03",
+    "time": "4:12 PM",
+    "matchup": "Baltimore Orioles @ Pittsburgh Pirates",
+    "away_team": "Baltimore Orioles",
+    "home_team": "Pittsburgh Pirates",
+    "away_pitcher": "Kyle Bradish",
+    "home_pitcher": "Mitch Keller",
+    "status": {
+      "abstractGameState": "Preview",
+      "codedGameState": "S",
+      "detailedState": "Scheduled",
+      "statusCode": "S",
+      "startTimeTBD": false,
+      "abstractGameCode": "P"
+    }
+  },
+  {
     "date": "2026-04-04",
     "time": "9:05 PM",
     "matchup": "New York Mets @ San Francisco Giants",
@@ -41,6 +58,23 @@
     "home_team": "San Francisco Giants",
     "away_pitcher": "Clay Holmes",
     "home_pitcher": "Landen Roupp",
+    "status": {
+      "abstractGameState": "Preview",
+      "codedGameState": "S",
+      "detailedState": "Scheduled",
+      "statusCode": "S",
+      "startTimeTBD": false,
+      "abstractGameCode": "P"
+    }
+  },
+  {
+    "date": "2026-04-05",
+    "time": "4:05 PM",
+    "matchup": "New York Mets @ San Francisco Giants",
+    "away_team": "New York Mets",
+    "home_team": "San Francisco Giants",
+    "away_pitcher": "Kodai Senga",
+    "home_pitcher": "Logan Webb",
     "status": {
       "abstractGameState": "Preview",
       "codedGameState": "S",

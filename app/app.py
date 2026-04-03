@@ -22,27 +22,40 @@ project_root = Path(__file__).parent.parent
 processed_folder = project_root / 'data' / 'processed'
 
 try:
-    df1 = pd.read_json(processed_folder / "probable_pitchers.json")
+    pitcher_df = pd.read_json(processed_folder / "probable_pitchers.json")
 except FileNotFoundError:
     st.error("File not found.")
-    df1 = pd.DataFrame()
+    pitcher_df = pd.DataFrame()
 
-df1['date_time'] = pd.to_datetime(df1['date'])
-df1['date'] = df1['date_time'].dt.date
-df1['day'] = df1['date_time'].dt.day_name()
+pitcher_df['date_time'] = pd.to_datetime(pitcher_df['date'])
+pitcher_df['date'] = pitcher_df['date_time'].dt.date
+pitcher_df['day'] = pitcher_df['date_time'].dt.day_name()
 
 
 
 try:
-    df2 = pd.read_csv(processed_folder / "FantasyPros_Fantasy_Baseball_Park_Factors.csv")
+    park_factor_df = pd.read_csv(processed_folder / "FantasyPros_Fantasy_Baseball_Park_Factors.csv")
 except FileNotFoundError:
     st.error("File not found.")
-    df2 = pd.DataFrame()
+    park_factor_df = pd.DataFrame()
 
-df = pd.merge(df1, df2, left_on='home_team', right_on='Team',how='left') 
+try:
+    runs_df = pd.read_csv(processed_folder / "standings.csv")
+except FileNotFoundError:
+    st.error("File not found.")
+    runs_df = pd.DataFrame()
+
+df = pitcher_df.merge(park_factor_df, left_on='home_team', right_on='Team',how='left').merge(runs_df, left_on='home_team', right_on='Team', how='left') 
 
 # Define a dictionary for renaming specific columns
-rename_mapping = {'Runs': 'Park_Factor'}
+rename_mapping = {'Runs': 'Park_Factor','2026 Projected Rest of Season RS/G': 'Home Proj RS/G'}
+
+
+df = df.rename(columns=rename_mapping)
+
+df = df.merge(runs_df, left_on='away_team', right_on='Team', how='left') 
+
+rename_mapping = {'2026 Projected Rest of Season RS/G': 'Away Proj RS/G'}
 
 df = df.rename(columns=rename_mapping)
 
@@ -52,4 +65,4 @@ st.set_page_config(layout="wide")
 
 st.header("Bovine Probable SPs")
 st.dataframe(df, use_container_width=True, 
-column_order=["date", "day", "time", "home_team", "home_pitcher", "away_team", "away_pitcher", "Park_Factor"])
+column_order=["date", "day", "time", "home_team", "home_pitcher", "away_team", "away_pitcher", "Park_Factor", "Home Proj RS/G", "Away Proj RS/G"])

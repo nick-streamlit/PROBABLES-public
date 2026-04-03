@@ -17,6 +17,7 @@ input_folder = project_root / 'data' / 'input'
 processed_folder = project_root / 'data' / 'processed'
 output_folder = project_root / 'outputs'
 
+
 def convert_utc_to_et_12hr(utc_time_str: str) -> str:
     """
     Convert UTC time string to 12-hour Eastern Time format.
