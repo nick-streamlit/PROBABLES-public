@@ -418,7 +418,6 @@ def save_table_as_image(filtered_games: List[dict], filename: str = f"{output_fo
     img.save(filename)
     print(f"Table saved as image: {filename}")
 
-
 def main():
     """Main function to fetch and display probable pitchers."""
     print("Fetching MLB probable pitchers for the next 7 days...")
