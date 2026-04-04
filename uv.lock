@@ -1068,6 +1068,15 @@ wheels = [
 ]
 
 [[package]]
+name = "path"
+version = "17.1.1"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/dd/52/a7bdd5ef8488977d354b7915d1e75009bebbd04f73eff14e52372d5e9435/path-17.1.1.tar.gz", hash = "sha256:2dfcbfec8b4d960f3469c52acf133113c2a8bf12ac7b98d629fa91af87248d42", size = 50528, upload-time = "2025-07-27T20:40:23.79Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/7c/50/11c9ee1ede64b45d687fd36eb8768dafc57afc78b4d83396920cfd69ed30/path-17.1.1-py3-none-any.whl", hash = "sha256:ec7e136df29172e5030dd07e037d55f676bdb29d15bfa09b80da29d07d3b9303", size = 23936, upload-time = "2025-07-27T20:40:22.453Z" },
+]
+
+[[package]]
 name = "pathlib"
 version = "1.0.1"
 source = { registry = "https://pypi.org/simple" }
@@ -1314,6 +1323,7 @@ dependencies = [
     { name = "numpy", version = "2.4.4", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version >= '3.11'" },
     { name = "pandas", version = "2.3.3", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version < '3.11'" },
     { name = "pandas", version = "3.0.2", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version >= '3.11'" },
+    { name = "path" },
     { name = "pathlib" },
     { name = "pillow", version = "11.3.0", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version < '3.10'" },
     { name = "pillow", version = "12.1.1", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version >= '3.10'" },
@@ -1322,6 +1332,7 @@ dependencies = [
     { name = "streamlit", version = "1.50.0", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version < '3.10'" },
     { name = "streamlit", version = "1.56.0", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version >= '3.10'" },
     { name = "typing" },
+    { name = "wget" },
 ]
 
 [package.metadata]
@@ -1332,11 +1343,13 @@ requires-dist = [
     { name = "lxml", specifier = ">=6.0.2" },
     { name = "numpy", specifier = ">=2.0.2" },
     { name = "pandas", specifier = ">=2.3.3" },
+    { name = "path", specifier = ">=17.1.1" },
     { name = "pathlib", specifier = ">=1.0.1" },
     { name = "pillow", specifier = ">=10.0.0" },
     { name = "requests", specifier = ">=2.31.0" },
     { name = "streamlit", specifier = ">=1.50.0" },
     { name = "typing", specifier = ">=3.10.0.0" },
+    { name = "wget", specifier = ">=3.2" },
 ]
 
 [[package]]
@@ -2133,6 +2146,12 @@ sdist = { url = "https://files.pythonhosted.org/packages/0b/02/ae6ceac1baeda5308
 wheels = [
     { url = "https://files.pythonhosted.org/packages/f4/24/2a3e3df732393fed8b3ebf2ec078f05546de641fe1b667ee316ec1dcf3b7/webencodings-0.5.1-py2.py3-none-any.whl", hash = "sha256:a0af1213f3c2226497a97e2b3aa01a7e4bee4f403f95be16fc9acd2947514a78", size = 11774, upload-time = "2017-04-05T20:21:32.581Z" },
 ]
+
+[[package]]
+name = "wget"
+version = "3.2"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/47/6a/62e288da7bcda82b935ff0c6cfe542970f04e29c756b0e147251b2fb251f/wget-3.2.zip", hash = "sha256:35e630eca2aa50ce998b9b1a127bb26b30dfee573702782aa982f875e3f16061", size = 10857, upload-time = "2015-10-22T15:26:37.51Z" }
 
 [[package]]
 name = "zope-interface"

@@ -45,7 +45,16 @@ except FileNotFoundError:
     st.error("File not found.")
     runs_df = pd.DataFrame()
 
-df = pitcher_df.merge(park_factor_df, left_on='home_team', right_on='Team',how='left').merge(runs_df, left_on='home_team', right_on='Team', how='left') 
+try:
+    proj_df = pd.read_csv(processed_folder / "2026 Fantasy Baseball Draft - Starting Pitchers.csv")
+except FileNotFoundError:
+    st.error("File not found.")
+    proj_df = pd.DataFrame()
+
+df = pitcher_df.merge(park_factor_df, left_on='home_team', right_on='Team',how='left').merge(runs_df, left_on='home_team', right_on='Team', how='left').merge(proj_df, left_on='home_pitcher', right_on='Player', how='left').merge(proj_df, left_on='away_pitcher', right_on='Player', how='left', suffixes=('_home', '_away')) 
+
+#intermeditate view to test
+#df.to_csv(processed_folder / "probable_pitchers_merged.csv", index=False)
 
 # Define a dictionary for renaming specific columns
 rename_mapping = {'Runs': 'Park_Factor','2026 Projected Rest of Season RS/G': 'Home Proj RS/G'}
@@ -53,16 +62,18 @@ rename_mapping = {'Runs': 'Park_Factor','2026 Projected Rest of Season RS/G': 'H
 
 df = df.rename(columns=rename_mapping)
 
-df = df.merge(runs_df, left_on='away_team', right_on='Team', how='left') 
+df = df.merge(runs_df[['Team', '2026 Projected Rest of Season RS/G']], left_on='away_team', right_on='Team', how='left') 
 
 rename_mapping = {'2026 Projected Rest of Season RS/G': 'Away Proj RS/G'}
 
 df = df.rename(columns=rename_mapping)
+
+#calc start score
 
 
 # Set page config for better layout
 st.set_page_config(layout="wide")
 
 st.header("Bovine Probable SPs")
-st.dataframe(df, use_container_width=True, 
-column_order=["date", "day", "time", "home_team", "home_pitcher", "away_team", "away_pitcher", "Park_Factor", "Home Proj RS/G", "Away Proj RS/G"])
+st.dataframe(df, width='stretch', 
+column_order=["date", "day", "time", "home_team", "home_pitcher", "away_team", "away_pitcher", "Park_Factor", "Home Proj RS/G", "Away Proj RS/G", "2026 proj Pts_home", "2026 proj Pts_away"])

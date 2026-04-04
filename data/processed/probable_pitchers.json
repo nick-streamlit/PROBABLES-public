@@ -8,12 +8,12 @@
     "away_pitcher": "Michael King",
     "home_pitcher": "Sonny Gray",
     "status": {
-      "abstractGameState": "Preview",
-      "codedGameState": "S",
-      "detailedState": "Scheduled",
-      "statusCode": "S",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
+      "detailedState": "Final",
+      "statusCode": "F",
       "startTimeTBD": false,
-      "abstractGameCode": "P"
+      "abstractGameCode": "F"
     }
   },
   {
@@ -25,12 +25,12 @@
     "away_pitcher": "Brady Singer",
     "home_pitcher": "MacKenzie Gore",
     "status": {
-      "abstractGameState": "Preview",
-      "codedGameState": "S",
-      "detailedState": "Scheduled",
-      "statusCode": "S",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
+      "detailedState": "Final",
+      "statusCode": "F",
       "startTimeTBD": false,
-      "abstractGameCode": "P"
+      "abstractGameCode": "F"
     }
   },
   {
@@ -42,12 +42,12 @@
     "away_pitcher": "Kyle Bradish",
     "home_pitcher": "Mitch Keller",
     "status": {
-      "abstractGameState": "Preview",
-      "codedGameState": "S",
-      "detailedState": "Scheduled",
-      "statusCode": "S",
+      "abstractGameState": "Final",
+      "codedGameState": "F",
+      "detailedState": "Final",
+      "statusCode": "F",
       "startTimeTBD": false,
-      "abstractGameCode": "P"
+      "abstractGameCode": "F"
     }
   },
   {

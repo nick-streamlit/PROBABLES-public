@@ -16,4 +16,6 @@ dependencies = [
     "lxml>=6.0.2",
     "html5lib>=1.1",
     "beautifulsoup4>=4.14.3",
+    "path>=17.1.1",
+    "wget>=3.2",
 ]

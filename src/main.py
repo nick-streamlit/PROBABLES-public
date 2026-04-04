@@ -1,3 +1,5 @@
+from turtle import pd, st
+import pandas as pd
 import requests
 from datetime import datetime, timedelta, timezone
 from typing import Optional, List
@@ -417,6 +419,7 @@ def save_table_as_image(filtered_games: List[dict], filename: str = f"{output_fo
     # Save image
     img.save(filename)
     print(f"Table saved as image: {filename}")
+
 
 def main():
     """Main function to fetch and display probable pitchers."""
