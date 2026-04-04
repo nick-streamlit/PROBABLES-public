@@ -59,7 +59,6 @@ df = pitcher_df.merge(park_factor_df, left_on='home_team', right_on='Team',how='
 # Define a dictionary for renaming specific columns
 rename_mapping = {'Runs': 'Park_Factor','2026 Projected Rest of Season RS/G': 'Home Proj RS/G'}
 
-
 df = df.rename(columns=rename_mapping)
 
 df = df.merge(runs_df[['Team', '2026 Projected Rest of Season RS/G']], left_on='away_team', right_on='Team', how='left') 
