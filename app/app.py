@@ -67,12 +67,16 @@ rename_mapping = {'2026 Projected Rest of Season RS/G': 'Away Proj RS/G'}
 
 df = df.rename(columns=rename_mapping)
 
+# Define column names as variables for clarity
+home_decision_score = 'home_decision_score'
+away_decision_score = 'away_decision_score'
+
 #calc start score
-
-
+df[home_decision_score] = 0.5 * (df['2026 proj Pts_home']/144.8) + 0.2 * df['Park_Factor'] + 0.2 * (df['Away Proj RS/G']/4.52) + 0.1 * (df['Home Proj RS/G']/4.52)
+df[away_decision_score] =  0.5 * (df['2026 proj Pts_away']/144.8) + 0.2 * df['Park_Factor'] + 0.2 * (df['Home Proj RS/G']/4.52) + 0.1 * (df['Away Proj RS/G']/4.52)
 # Set page config for better layout
 st.set_page_config(layout="wide")
 
 st.header("Bovine Probable SPs")
 st.dataframe(df, width='stretch', 
-column_order=["date", "day", "time", "home_team", "home_pitcher", "away_team", "away_pitcher", "Park_Factor", "Home Proj RS/G", "Away Proj RS/G", "2026 proj Pts_home", "2026 proj Pts_away"])
+column_order=["date", "day", "time", "home_team", "home_pitcher", "away_team", "away_pitcher", "home_decision_score", "away_decision_score", "Park_Factor", "Home Proj RS/G", "Away Proj RS/G", "2026 proj Pts_home", "2026 proj Pts_away"])
