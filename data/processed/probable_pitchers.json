@@ -1,97 +1,46 @@
 [
   {
-    "date": "2026-04-05",
-    "time": "4:05 PM",
-    "matchup": "New York Mets @ San Francisco Giants",
-    "away_team": "New York Mets",
-    "home_team": "San Francisco Giants",
-    "away_pitcher": "Kodai Senga",
-    "home_pitcher": "Logan Webb",
+    "date": "2026-04-16",
+    "time": "12:40 PM",
+    "matchup": "San Francisco Giants @ Cincinnati Reds",
+    "away_team": "San Francisco Giants",
+    "home_team": "Cincinnati Reds",
+    "away_pitcher": "Landen Roupp",
+    "home_pitcher": "Chase Burns",
     "status": {
-      "abstractGameState": "Live",
-      "codedGameState": "I",
-      "detailedState": "In Progress",
-      "statusCode": "I",
+      "abstractGameState": "Preview",
+      "codedGameState": "S",
+      "detailedState": "Scheduled",
+      "statusCode": "S",
       "startTimeTBD": false,
-      "abstractGameCode": "L"
+      "abstractGameCode": "P"
     }
   },
   {
-    "date": "2026-04-06",
-    "time": "6:10 PM",
-    "matchup": "Kansas City Royals @ Cleveland Guardians",
+    "date": "2026-04-16",
+    "time": "1:10 PM",
+    "matchup": "Kansas City Royals @ Detroit Tigers",
     "away_team": "Kansas City Royals",
+    "home_team": "Detroit Tigers",
+    "away_pitcher": "Kris Bubic",
+    "home_pitcher": "Keider Montero",
+    "status": {
+      "abstractGameState": "Preview",
+      "codedGameState": "S",
+      "detailedState": "Scheduled",
+      "statusCode": "S",
+      "startTimeTBD": false,
+      "abstractGameCode": "P"
+    }
+  },
+  {
+    "date": "2026-04-17",
+    "time": "6:10 PM",
+    "matchup": "Baltimore Orioles @ Cleveland Guardians",
+    "away_team": "Baltimore Orioles",
     "home_team": "Cleveland Guardians",
-    "away_pitcher": "Michael Wacha",
+    "away_pitcher": "Chris Bassitt",
     "home_pitcher": "Tanner Bibee",
-    "status": {
-      "abstractGameState": "Preview",
-      "codedGameState": "S",
-      "detailedState": "Scheduled",
-      "statusCode": "S",
-      "startTimeTBD": false,
-      "abstractGameCode": "P"
-    }
-  },
-  {
-    "date": "2026-04-06",
-    "time": "9:45 PM",
-    "matchup": "Philadelphia Phillies @ San Francisco Giants",
-    "away_team": "Philadelphia Phillies",
-    "home_team": "San Francisco Giants",
-    "away_pitcher": "Andrew Painter",
-    "home_pitcher": "Adrian Houser",
-    "status": {
-      "abstractGameState": "Preview",
-      "codedGameState": "S",
-      "detailedState": "Scheduled",
-      "statusCode": "S",
-      "startTimeTBD": false,
-      "abstractGameCode": "P"
-    }
-  },
-  {
-    "date": "2026-04-07",
-    "time": "6:40 PM",
-    "matchup": "San Diego Padres @ Pittsburgh Pirates",
-    "away_team": "San Diego Padres",
-    "home_team": "Pittsburgh Pirates",
-    "away_pitcher": "Nick Pivetta",
-    "home_pitcher": "Paul Skenes",
-    "status": {
-      "abstractGameState": "Preview",
-      "codedGameState": "S",
-      "detailedState": "Scheduled",
-      "statusCode": "S",
-      "startTimeTBD": false,
-      "abstractGameCode": "P"
-    }
-  },
-  {
-    "date": "2026-04-08",
-    "time": "12:35 PM",
-    "matchup": "San Diego Padres @ Pittsburgh Pirates",
-    "away_team": "San Diego Padres",
-    "home_team": "Pittsburgh Pirates",
-    "away_pitcher": "Michael King",
-    "home_pitcher": "Mitch Keller",
-    "status": {
-      "abstractGameState": "Preview",
-      "codedGameState": "S",
-      "detailedState": "Scheduled",
-      "statusCode": "S",
-      "startTimeTBD": false,
-      "abstractGameCode": "P"
-    }
-  },
-  {
-    "date": "2026-04-08",
-    "time": "2:35 PM",
-    "matchup": "Seattle Mariners @ Texas Rangers",
-    "away_team": "Seattle Mariners",
-    "home_team": "Texas Rangers",
-    "away_pitcher": "Bryan Woo",
-    "home_pitcher": "MacKenzie Gore",
     "status": {
       "abstractGameState": "Preview",
       "codedGameState": "S",
