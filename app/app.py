@@ -72,8 +72,8 @@ home_decision_score = 'home_decision_score'
 away_decision_score = 'away_decision_score'
 
 #calc start score
-df[home_decision_score] = 0.5 * (df['2026 proj Pts_home']/144.8) + 0.2 * df['Park_Factor'] + 0.2 * (df['Away Proj RS/G']/4.52) + 0.1 * (df['Home Proj RS/G']/4.52)
-df[away_decision_score] =  0.5 * (df['2026 proj Pts_away']/144.8) + 0.2 * df['Park_Factor'] + 0.2 * (df['Home Proj RS/G']/4.52) + 0.1 * (df['Away Proj RS/G']/4.52)
+df[home_decision_score] = 0.5 * (df['2026 proj Pts_home']/144.8) + 0.2 * 1/df['Park_Factor'] + 0.2 * 1/(df['Away Proj RS/G']/4.52) + 0.1 * (df['Home Proj RS/G']/4.52)
+df[away_decision_score] =  0.5 * (df['2026 proj Pts_away']/144.8) + 0.2 * 1/df['Park_Factor'] + 0.2 * 1/(df['Home Proj RS/G']/4.52) + 0.1 * (df['Away Proj RS/G']/4.52)
 # Set page config for better layout
 st.set_page_config(layout="wide")
 

@@ -1,12 +1,12 @@
 [
   {
-    "date": "2026-04-16",
-    "time": "12:40 PM",
-    "matchup": "San Francisco Giants @ Cincinnati Reds",
-    "away_team": "San Francisco Giants",
-    "home_team": "Cincinnati Reds",
-    "away_pitcher": "Landen Roupp",
-    "home_pitcher": "Chase Burns",
+    "date": "2026-05-01",
+    "time": "6:40 PM",
+    "matchup": "Texas Rangers @ Detroit Tigers",
+    "away_team": "Texas Rangers",
+    "home_team": "Detroit Tigers",
+    "away_pitcher": "MacKenzie Gore",
+    "home_pitcher": "Jack Flaherty",
     "status": {
       "abstractGameState": "Preview",
       "codedGameState": "S",
@@ -17,12 +17,46 @@
     }
   },
   {
-    "date": "2026-04-16",
-    "time": "1:10 PM",
-    "matchup": "Kansas City Royals @ Detroit Tigers",
-    "away_team": "Kansas City Royals",
+    "date": "2026-05-01",
+    "time": "6:45 PM",
+    "matchup": "Cincinnati Reds @ Pittsburgh Pirates",
+    "away_team": "Cincinnati Reds",
+    "home_team": "Pittsburgh Pirates",
+    "away_pitcher": "Brady Singer",
+    "home_pitcher": "Mitch Keller",
+    "status": {
+      "abstractGameState": "Preview",
+      "codedGameState": "S",
+      "detailedState": "Scheduled",
+      "statusCode": "S",
+      "startTimeTBD": false,
+      "abstractGameCode": "P"
+    }
+  },
+  {
+    "date": "2026-05-02",
+    "time": "6:10 PM",
+    "matchup": "San Francisco Giants @ Tampa Bay Rays",
+    "away_team": "San Francisco Giants",
+    "home_team": "Tampa Bay Rays",
+    "away_pitcher": "Landen Roupp",
+    "home_pitcher": null,
+    "status": {
+      "abstractGameState": "Preview",
+      "codedGameState": "S",
+      "detailedState": "Scheduled",
+      "statusCode": "S",
+      "startTimeTBD": false,
+      "abstractGameCode": "P"
+    }
+  },
+  {
+    "date": "2026-05-02",
+    "time": "7:15 PM",
+    "matchup": "Texas Rangers @ Detroit Tigers",
+    "away_team": "Texas Rangers",
     "home_team": "Detroit Tigers",
-    "away_pitcher": "Kris Bubic",
+    "away_pitcher": "Kumar Rocker",
     "home_pitcher": "Keider Montero",
     "status": {
       "abstractGameState": "Preview",
@@ -34,13 +68,13 @@
     }
   },
   {
-    "date": "2026-04-17",
-    "time": "6:10 PM",
-    "matchup": "Baltimore Orioles @ Cleveland Guardians",
-    "away_team": "Baltimore Orioles",
-    "home_team": "Cleveland Guardians",
-    "away_pitcher": "Chris Bassitt",
-    "home_pitcher": "Tanner Bibee",
+    "date": "2026-05-02",
+    "time": "8:40 PM",
+    "matchup": "Chicago White Sox @ San Diego Padres",
+    "away_team": "Chicago White Sox",
+    "home_team": "San Diego Padres",
+    "away_pitcher": "Sean Burke",
+    "home_pitcher": "Michael King",
     "status": {
       "abstractGameState": "Preview",
       "codedGameState": "S",
